@@ -1,1 +1,1 @@
-git subtree push --prefix Assets/UsefulKit origin upm
+git subtree push --prefix usefulkit-unity/Assets/UsefulKit origin upm
