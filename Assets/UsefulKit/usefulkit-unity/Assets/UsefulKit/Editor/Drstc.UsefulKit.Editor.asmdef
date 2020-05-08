@@ -1,0 +1,15 @@
+{
+    "name": "Drstc.UsefulKit.Editor",
+    "references": [
+        "GUID:162be47e9578fcc4197388960166853d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
